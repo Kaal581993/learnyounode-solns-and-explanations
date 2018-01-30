@@ -9,3 +9,11 @@ Download the binaries from:
 https://nodejs.org/en/
 
 and follow the instructions!
+
+After you install nodejs
+
+run following command into your OS Cli interface
+
+npm install -g learnyounode
+
+After Installation is complete, run learnyounode and follow further instructions
